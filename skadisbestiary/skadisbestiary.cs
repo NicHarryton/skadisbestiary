@@ -10,7 +10,7 @@ namespace skadisbestiary
     //[NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.Minor)]
     internal class skadisbestiary : BaseUnityPlugin
     {
-        public const string PluginGUID = "com.jotunn.skadisbestiary";
+        public const string PluginGUID = "com.NicHarryton.skadisbestiary";
         public const string PluginName = "skadisbestiary";
         public const string PluginVersion = "0.0.1";
         
@@ -28,4 +28,6 @@ namespace skadisbestiary
         }
     }
 }
+
+
 
